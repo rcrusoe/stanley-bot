@@ -47,7 +47,7 @@ $automatedResponseTimeStart = "Today 9pm";
 $automatedResponseTimeEnd = "Tomorrow 10am";
 
 
-
+/*
 // Create a API client instance
 $http = new Services_Twilio_TinyHttp(
     'https://api.twilio.com',
@@ -57,5 +57,5 @@ $http = new Services_Twilio_TinyHttp(
     )));
 
 $client = new Services_Twilio($accountSid, $authToken, "2010-04-01", $http);
-
+*/
 ?>
